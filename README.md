@@ -1,4 +1,4 @@
-# Web Development 50 Project -> HTML,CSS,JS
+# Web Development 50 Project Ideas -> HTML,CSS,JS
 
 ![Expanding Cards ](https://user-images.githubusercontent.com/67688506/179362250-cb2b6e79-6030-4721-a147-0338803b3b10.jpeg)
 
